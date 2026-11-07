@@ -1,0 +1,6 @@
+{
+  "appId": "com.rust.mobile",
+  "appName": "Rust Mobile",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
